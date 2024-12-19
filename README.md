@@ -11,10 +11,13 @@ I'm Yevhen! 💻🌍
 - 🐍 Python (AI)
 - 🐳 Docker
 
-### My GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevhen-Perediela&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhen-Perediela&layout=compact&theme=radical)
-
+### Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Code-PHP-8892BF?logo=php" alt="PHP Badge" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker" alt="Docker Badge" />
+</p>
 
 
 <div style='display: flex'>
@@ -22,6 +25,16 @@ I'm Yevhen! 💻🌍
   <img src="https://media1.tenor.com/m/57w9du3NrV0AAAAd/css-html.gif" width="200" height="200">
   <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="200" height="200">
 </div>
+
+### My Workflow 🚀
+```mermaid
+graph TD;
+  Idea-->Plan;
+  Plan-->Code;
+  Code-->Test;
+  Test-->Deploy;
+  Deploy-->Feedback;
+  Feedback-->Code;
 
 
 
