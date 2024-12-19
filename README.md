@@ -1,21 +1,20 @@
-# Cześć! 👋
-Jestem Yevhen! 💻🌍
+# Hi there! 👋
+I'm Yevhen! 💻🌍
 
-🎯 Moje cele:
-- 🚀 Rozwijanie umiejętności programistycznych.
-- 🌟 Praca jako [Twoja wymarzona pozycja].
+🎯 My Goals:
+- 🚀 Improve my programming skills.
+- 🌟 Work as a DevOps/Backend developer.
 
-🛠️ Technologie, z których korzystam:
-- 🌐 HTML, CSS, JavaScript
+🛠️ Technologies I use:
+- 🌐 HTML, CSS, JavaScript (node.js, jquery)
+- 🌐 PHP
 - 🐍 Python
 - 🐳 Docker
 - ☁️ AWS
 
-📫 Jak się ze mną skontaktować:
-- 📧 Email: twojemail@example.com
-
+📫 How to reach me:
+- 📧 Email: youremail@example.com
 
 ---
 
-![Funny gif](https://media.giphy.com/media/26gsspf0C8BQb6ThS/giphy.gif)
-
+![Funny gif]([https://media.giphy.com/media/26gsspf0C8BQb6ThS/giphy.gif](https://tenor.com/pl/view/hacker-pepe-santa-christmas-holiday-gif-20528522))
