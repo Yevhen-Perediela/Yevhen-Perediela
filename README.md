@@ -1,16 +1,21 @@
-## Hi there 👋
+# Cześć! 👋
+Jestem Yevhen! 💻🌍
 
-<!--
-**Yevhen-Perediela/Yevhen-Perediela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Moje cele:
+- 🚀 Rozwijanie umiejętności programistycznych.
+- 🌟 Praca jako [Twoja wymarzona pozycja].
 
-Here are some ideas to get you started:
+🛠️ Technologie, z których korzystam:
+- 🌐 HTML, CSS, JavaScript
+- 🐍 Python
+- 🐳 Docker
+- ☁️ AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Jak się ze mną skontaktować:
+- 📧 Email: twojemail@example.com
+
+
+---
+
+![Funny gif](https://media.giphy.com/media/26gsspf0C8BQb6ThS/giphy.gif)
+
