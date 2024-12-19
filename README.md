@@ -14,4 +14,4 @@ I'm Yevhen! 💻🌍
 
 ---
 
-![Funny gif]([https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif])
+![Funny gif](https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif)
