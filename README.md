@@ -8,9 +8,13 @@ I'm Yevhen! 💻🌍
 🛠️ Technologies I use:
 - 🌐 HTML, CSS, JavaScript (node.js, jquery)
 - 🌐 PHP
-- 🐍 Python
+- 🐍 Python (AI)
 - 🐳 Docker
-- ☁️ AWS
+
+### My GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yevhen-Perediela&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhen-Perediela&layout=compact&theme=radical)
+
 
 
 <div style='display: flex'>
