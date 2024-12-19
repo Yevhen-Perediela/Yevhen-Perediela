@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello World! 👋
 I'm Yevhen! 💻🌍
 
 🎯 My Goals:
@@ -26,15 +26,7 @@ I'm Yevhen! 💻🌍
   <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="200" height="200">
 </div>
 
-### My Workflow 🚀
-```mermaid
-graph TD;
-  Idea-->Plan;
-  Plan-->Code;
-  Code-->Test;
-  Test-->Deploy;
-  Deploy-->Feedback;
-  Feedback-->Code;
+
 
 
 
