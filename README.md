@@ -16,6 +16,8 @@ I'm Yevhen! 💻🌍
 <div style='display: flex'>
   <img src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif" width="200" height="200">
   <img src="https://media1.tenor.com/m/57w9du3NrV0AAAAd/css-html.gif" width="200" height="200">
+  ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 </div>
 
 
