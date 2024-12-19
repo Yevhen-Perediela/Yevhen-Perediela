@@ -12,9 +12,6 @@ I'm Yevhen! 💻🌍
 - 🐳 Docker
 - ☁️ AWS
 
-📫 How to reach me:
-- 📧 Email: youremail@example.com
-
 ---
 
-![Funny gif]([https://media.giphy.com/media/26gsspf0C8BQb6ThS/giphy.gif](https://tenor.com/pl/view/hacker-pepe-santa-christmas-holiday-gif-20528522))
+![Funny gif]([https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif])
