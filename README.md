@@ -2,13 +2,12 @@
 I'm Yevhen! 💻🌍
 
 🎯 My Goals:
-- 🚀 Improve my programming skills.
 - 🌟 Work as a DevOps/Backend developer.
 
 🛠️ Technologies I use:
 - 🌐 HTML, CSS, JavaScript (node.js, jquery)
 - 🌐 PHP
-- 🐍 Python (AI)
+- 🐍 Python (django, AI)
 - 🐳 Docker
 
 ### Tools & Technologies
