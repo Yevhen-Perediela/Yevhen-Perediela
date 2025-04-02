@@ -2,13 +2,13 @@
 I'm Yevhen! 💻🌍
 
 🎯 My Goals:
+- 🌟 AI + blockchain
 - 🌟 Work as a DevOps/Backend developer.
 
 🛠️ Technologies I use:
-- 🌐 HTML, CSS, JavaScript (node.js, jquery)
-- 🌐 PHP
-- 🐍 Python (django, AI)
-- 🐳 Docker
+- 🐍 Python (django/flask, AI)
+- 🌐 HTML, CSS, JavaScript (node.js, jquery),  PHP
+- 💾 Linux, Docker
 
 ### Tools & Technologies
 <p>
@@ -21,8 +21,8 @@ I'm Yevhen! 💻🌍
 
 <div style='display: flex'>
 <!--   <img src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif" width="200" height="200"> -->
-  <img src="https://media1.tenor.com/m/57w9du3NrV0AAAAd/css-html.gif" width="200" height="200">
-  <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="200" height="200">
+  <img src="https://media1.tenor.com/m/57w9du3NrV0AAAAd/css-html.gif" width="150" height="150">
+  <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="150" height="150">
 </div>
 
 
