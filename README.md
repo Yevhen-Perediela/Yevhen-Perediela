@@ -1,6 +1,6 @@
 # Hello World! 👋
-I'm Yevhen! 💻🌍
-$$ Crypto Hamster $$
+I'm Yevhen! 💻🌍<br>
+$$ Crypto Hamster and dev $$ 
 
 🎯 My Goals:
 - 🌟 AI + blockchain
