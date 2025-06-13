@@ -1,15 +1,15 @@
 # Hello World! 👋
-I'm Yevhen! 💻🌍<br>
+I'm Yevhen! 💻<br>
 $$ Crypto Hamster and dev $$ 
 
 🎯 My Goals:
-- 🌟 AI + blockchain
-- 🌟 Work as a DevOps/Backend developer.
+- AI + blockchain
+- Work as a DevOps/Backend developer.
 
 🛠️ Technologies I use:
 - 🐍 Python (django/flask, AI)
-- 🌐 HTML, CSS, JavaScript (node.js, jquery),  PHP
-- 💾 Linux, Docker
+- 🌐 PHP, SQL, JavaScript (node.js, jquery),  HTML, CSS
+- 💾 Linux(I hate Windows), Docker, nginx / apache
 
 <p>
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python" alt="Python Badge" />
