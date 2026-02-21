@@ -11,13 +11,13 @@
 
 ---
 
-## 🚦 SignalMeter — Trading Traffic Light System
+## 🚦 SignalMeter - Trading Traffic Light System
 
 I am a **co-founder & dev of SignalMeter**, a trading analytics platform built around a **traffic-light logic**:
 
-- 🟥 **Red** — high risk / no trade  
-- 🟨 **Yellow** — caution / wait  
-- 🟩 **Green** — trade opportunity  
+- 🟥 **Red** - high risk / no trade  
+- 🟨 **Yellow** - caution / wait  
+- 🟩 **Green** - trade opportunity  
 
 SignalMeter helps traders **make fast, emotion-free decisions** using:
 - technical indicators (RSI, EMA, MACD, etc.)
