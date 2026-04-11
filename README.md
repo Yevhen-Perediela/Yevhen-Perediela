@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Yevhen</h1>
+<h1>Hi, I'm Yevhen</h1>
 <h3>Co-Founder & dev of SignalMeter • Startup Engineer • Crypto & Trading Systems Builder</h3>
 
 <img src="https://img.shields.io/badge/Co--Founder-SignalMeter-00C853?style=for-the-badge" />
@@ -31,7 +31,7 @@ SignalMeter helps traders **make fast, emotion-free decisions** using:
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **technical co-founder & startup builder** who creates products **from idea to production**.
 
@@ -42,33 +42,31 @@ What I do:
 - deploy and maintain production servers
 - think not only like a developer, but like a **founder**
 
-I focus on **real products**, not tutorials.
-
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 - Python (Django, Flask, async)
 - REST APIs & WebSockets
 - Redis (cache, sessions, state)
 - Trading bots & exchange APIs (Binance, KuCoin, etc.)
 
-### 🎨 Frontend
+### Frontend
 - React, TypeScript, Vite
 - Tailwind CSS
 - SPA & real-time UI
 - Data visualization (charts, dashboards)
 - Frontend ↔ Backend integration
 
-### 🐳 DevOps & Infrastructure
+### DevOps & Infrastructure
 - Docker & Docker Compose
 - Linux servers (Ubuntu)
 - Nginx / Traefik
 - CI/CD basics
 - Secure environment configuration
 
-### 📈 Trading & Crypto
+### Trading & Crypto
 - Technical analysis (RSI, EMA, MACD, BB)
 - Futures & Spot logic
 - Risk management
@@ -79,7 +77,7 @@ I focus on **real products**, not tutorials.
 
 <div align="center">
 
-### 📫 Open to collaboration & serious projects
+### Open to collaboration & serious projects
 <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="150" height="150">
 </div>
 
