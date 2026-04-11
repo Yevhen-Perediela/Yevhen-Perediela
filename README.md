@@ -78,6 +78,7 @@ What I do:
 <div align="center">
 
 ### Open to collaboration & serious projects
+### eugeniuszperediela@gmail.com
 <img src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif" width="150" height="150">
 </div>
 
