@@ -108,8 +108,8 @@ I enjoy working on projects where backend logic, real-time data and product thin
 
 ### Open to developer roles, collaboration and serious projects
 
-📩 **Email:** eugeniuszperediela@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yevhen-perediela-510142278](https://www.linkedin.com/in/yevhen-perediela-510142278)
+ **Email:** yevhenperediela@gmail.com  
+ **LinkedIn:** [linkedin.com/in/yevhen-perediela-510142278](https://www.linkedin.com/in/yevhen-perediela-510142278)
 
 <br>
 
